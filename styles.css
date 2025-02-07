@@ -1,0 +1,63 @@
+ #apa {
+    display: flex;
+              flex-direction: column;
+              gap: 1rem;
+              padding: 0.5rem;
+              
+  }
+  #subtitulo {
+    color:rgb(233, 10, 10);
+    margin: 0rem 30rem 0rem 30rem;
+    background-color: rgba(0, 128, 255, 0.762);
+    border-radius: 0.5rem;
+    
+  }
+  
+ body {
+background-color: aquamarine;
+text-align: center;
+ }
+
+ #arriba{
+   
+    color: turquoise;
+    background-color: black;
+    margin: 0rem 15rem 0rem 15rem;
+    font-size: 20px;
+    border-radius: 5px;
+ }
+
+ #mi {
+   color: crimson;
+   background-color:rgb(147, 210, 30) ;
+   
+ } 
+
+ a {
+   color: crimson;
+   background-color: rgb(147, 210, 30)
+ }
+ #foto{
+   background-color: turquoise;
+   width: 20rem;
+   text-align: center;
+   margin-left: 37rem;
+   
+    }
+
+    #ab{ 
+      background-color: aqua;
+      margin-top: 20px;
+      text-align: center;
+      border-radius: 5px;
+    }
+
+    #abc{
+      background-color: aqua;
+      text-align:justify ;margin-left: 20px;
+    }
+
+    #perros{
+      background-color: aqua; padding: 2rem; height: 15rem; width: 15rem;
+      border-radius: 5px;
+    }
